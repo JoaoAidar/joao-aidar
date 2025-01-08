@@ -11,11 +11,7 @@
 
 <h3>🎧 On repeat:</h3>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31w5g73xz2cm2b27vkp6hoicbtga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5g73xz2cm2b27vkp6hoicbtga&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w5g73xz2cm2b27vkp6hoicbtga&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -23,7 +19,7 @@
 
 - Meu objetivo é me especializar em desenvolvimento de jogos e criar experiências inesquecíveis.  
 - Atualmente, estou aprofundando meus conhecimentos em programação e design de sistemas complexos.  
-- Além de tecnologia, sou apaixonado por histórias e trilhas sonoras que inspiram criatividade.
+- Além de tecnologia, sou apaixonado por economia, filosofia e matemática.
 
 ---
 

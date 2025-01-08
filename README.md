@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou o João Aidar!</h2>
+ <h2 align="center">Olá, sou o João Aidar!</h2>
 
 ---
 
@@ -12,7 +12,7 @@
 <h3>🎧 Minha Playlist Favorita:</h3>
 
 Se você curte música como eu, confira minha playlist no Spotify:  
-[Embed aqui caso necessário]
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Hf0BeIKYzSk5YHoMYSSwW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 

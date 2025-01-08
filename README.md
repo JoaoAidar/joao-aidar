@@ -1,4 +1,4 @@
- <h2 align="center">Olá, sou o João Aidar!</h2>
+  <h2 align="center">Olá, sou o João Aidar!</h2>
 
 ---
 
@@ -9,10 +9,13 @@
 
 ---
 
-<h3>🎧 Minha Playlist Favorita:</h3>
+<h3>🎧 On repeat:</h3>
 
-Se você curte música como eu, confira minha playlist no Spotify:  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Hf0BeIKYzSk5YHoMYSSwW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center">
+  <a href="https://open.spotify.com/user/31w5g73xz2cm2b27vkp6hoicbtga">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5g73xz2cm2b27vkp6hoicbtga&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 
@@ -26,7 +29,7 @@ Se você curte música como eu, confira minha playlist no Spotify:
 
 <h3>🔗 Minhas Redes Sociais:</h3>
 
-- [Seu Instagram](#)  
-- [Seu E-mail](mailto:seuemail@exemplo.com)
+- [Meu instagram](https://instagram.com/joaoaidar03)
+- [Meu E-mail](mailto:joaoaidar.business@gmail.com)
 
 Obrigado por visitar meu perfil! 🚀
